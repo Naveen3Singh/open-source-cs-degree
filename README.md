@@ -13,8 +13,8 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
 > *or*  
 > [UC Berkeley CS61A](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
-> *or*
-> [MIT 6.0001] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+> *or*  
+> [MIT 6.0001] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
 
 **Discrete Mathematics for Computer Science**
 
